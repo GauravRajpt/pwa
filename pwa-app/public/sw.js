@@ -1,0 +1,1 @@
+console.warn("your sw file in public folder");
